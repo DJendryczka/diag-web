@@ -2513,6 +2513,7 @@ input, select, textarea {
 			position: absolute;
 			top: 0;
 			width: 100%;
+			
 		}
 
 			.image.fill img {
@@ -2521,6 +2522,11 @@ input, select, textarea {
 				position: absolute;
 				top: 0;
 				width: 100%;
+				
+			}
+			.splash{
+				background-color: rgba(0, 0, 0, 0.9);
+    background-blend-mode: multiply;
 			}
 
 /* List */
